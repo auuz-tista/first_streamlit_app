@@ -6,3 +6,4 @@ streamlit.text("🐔 Idli & Chutney")
 streamlit.text("🥑🍞 Ravva Onion Dosa")
 streamlit.text("🥑🍞 Bread Omlette")
    
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
